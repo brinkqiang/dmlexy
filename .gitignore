@@ -5,3 +5,6 @@ docs/data/tags/head.toml
 docs/static/download/*.zip
 docs/public/
 docs/resources/
+
+bin/
+build/
