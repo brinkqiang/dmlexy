@@ -8,7 +8,6 @@ project(lexy VERSION 2022.12.1 LANGUAGES CXX)
 LIST(APPEND CMAKE_MODULE_PATH ${CMAKE_CURRENT_SOURCE_DIR}/cmake)
 INCLUDE(cmake/ModuleImport.cmake)
 INCLUDE(cmake/ModuleCompileOptions.cmake)
-INCLUDE(cmake/ModuleCompilerDefenses.cmake)
 
 ModuleSetCompileOptions()
 
